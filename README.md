@@ -1,2 +1,2 @@
 # probable-rotary-phone
-WordPress のタグの階層化
+WordPress のタグを階層化するプラグイン
