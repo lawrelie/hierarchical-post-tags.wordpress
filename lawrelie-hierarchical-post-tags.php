@@ -1,7 +1,7 @@
 <?php
 namespace Lawrelie\WordPress\HierarchicalPostTags;
 // Plugin Name: lawrelie-hierarchical-post-tags
-// Description: WordPress のタグを階層化するプラグイン
+// Description: タグを階層化するプラグイン
 // Version: 0.1.0-alpha
 // Requires at least: 4.4
 // Tested up to: 5.7
